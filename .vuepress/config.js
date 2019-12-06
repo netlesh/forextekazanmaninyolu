@@ -9,6 +9,7 @@ module.exports = {
         items: [
           { text: 'Kurulumu', link: '/ProFX/ProFXKurulumu' },
           { text: 'Strateji Önerisi', link: '/StratejiOnerisi' },
+          { text: 'Genel Hatalar', link: '/ProFX/GenelHatalar' },
           { text: 'Ayarları', link: '/ProFX/ProFXAyarlar' }
         ]
       },
