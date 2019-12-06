@@ -62,6 +62,6 @@ Tools (Seçenekler) altındaki Events (Olaylar) tabına gelip Enable (Etkinleşt
 ![MT Bildirimlerin Açılması](https://lh3.googleusercontent.com/pF-2cInknIhI9okzC9hnhYS_JbjyjFKH4J57XauxHgS_rDTnajGiXY1-ofYVBLjy5XwpgespfnE "MT Bildirimlerin Açılması")
 
 **AutoTrade'in Açılması**
-Grafik ekran üzerinden Sell (Satım) - Buy (Alım) butonlarına bastığınızda işlem yapabilmesi için Meta Trader uygulamasının üst tarafında yer alan AutoTrader (Otomatik Alım Satım) butonun yeşil yanması gerekmektedir. Eğer kırmızı ise butona basıp aktik ediniz.
+Grafik ekran üzerinden Sell (Satım) - Buy (Alım) butonlarına bastığınızda işlem yapabilmesi için Meta Trader uygulamasının üst tarafında yer alan AutoTrader (Otomatik Alım Satım) butonun yeşil yanması gerekmektedir. Eğer kırmızı ise butona basıp aktif ediniz.
 
 ![eMT Otomatik Alım Satım Açılması](https://lh3.googleusercontent.com/hobP17B9Fi1DLnfoL9w1bHKrkTSBaq-A4t6KzxoV_vRebET2brQIYNFvPZnufrwcvvOqPctfUa8 "MT Otomatik Alım Satım Açılması")

@@ -5,7 +5,7 @@ next: ./ProFXAyarlar
 
 # KARŞILAŞABİLECEĞİNİZ PROBLEMLER
 
-![akışlar](./img/online_transactions.svg)
+![akışlar](../img/online_transactions.svg)
 
 [[toc]]
 
