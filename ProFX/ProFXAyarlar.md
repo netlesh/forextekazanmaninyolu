@@ -1,3 +1,8 @@
+---
+prev: ./GenelHatalar
+next: false
+---
+
 ## Presets
 
 ![ayarlar](../img/google_docs.svg)

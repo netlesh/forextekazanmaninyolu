@@ -1,6 +1,6 @@
 ---
-prev: false
-next: ./GenelHatalar
+prev: ./ProFXKurulumu
+next: ./ProFXAyarlar
 ---
 
 # KARŞILAŞABİLECEĞİNİZ PROBLEMLER

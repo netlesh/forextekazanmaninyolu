@@ -1,3 +1,8 @@
+---
+prev: false
+next: ./GenelHatalar
+---
+
 ## PROFX NASIL DEVREYE ALINIR
 
  Kredi Kart ile satın alımda verdiğiniz mail adresine güncel sürüm ve kurulum dökümanları gönderilecektir. Kuruluma başlayıp süreci hızlandırma adına Aşağıdaki linkte 6.3 sürümünü indirip kuruluma başlayabilirsiniz.
