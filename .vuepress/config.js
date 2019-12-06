@@ -30,6 +30,10 @@ module.exports = {
              */
             email: 'iletisim@ahmetmusakosali.com.tr',
            
+        },
+        '@vuepress/google-analytics',
+        {
+          'ga': 'UA-153662218-2' // UA-00000000-0
         }
     ]
 ]
