@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: FOREX'te KAZANCINIZI ARTTIRIN
-tagline: ARTIK FOREX'TE KAYBETMEK YOK
+heroText: Forex'te Kazancınızı Arttırın
+tagline: ProFX ile Forex'te Kaybetmek Yok
 actionText: Başla →
 actionLink: /StratejiOnerisi
 footer: © 2019 
