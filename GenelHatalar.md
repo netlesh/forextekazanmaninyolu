@@ -1,6 +1,6 @@
 ---
 prev: false
-next: ./KarsilasabileceginizProblemler
+next: ./GenelHatalar
 ---
 
 # KARŞILAŞABİLECEĞİNİZ PROBLEMLER
