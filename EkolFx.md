@@ -6,7 +6,7 @@ next: ./ProFX/ProFXAyarlar
 ![online ödeme](./img/pay_online.svg)
 
 2019 yılına kadar bir çok yerli ve yabancı yurt dışı forex firmalarını denedim. 
-Şu zamana kadar en başarılısı yurt dışı FX firması olan EkolFX. 
+Şu zamana kadar en başarılısı yurt dışı olup tam Türkiye destekli FX firması olan EkolFX. 
 
 [[toc]]
 
