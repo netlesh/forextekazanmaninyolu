@@ -14,7 +14,6 @@ module.exports = {
       },
       { text: 'SSS ', link: '/sss' },
       { text: 'EkolFX', link: '/EkolFX' },
-      { text: 'İletişim', link: '/Iletisim' },
     ],
     sidebar: [
       ['http://ahmetmusakosali.forex21pro3.c2strack.com', 'ProFX Satın Al'],
@@ -23,18 +22,20 @@ module.exports = {
   },
   plugins:[
     [
-        'contact-us', // Or 'vuepress-plugin-contact-us'
-        {
-            /**
-             * Mandatory: the email address which the contact data will be sent
-             */
-            email: 'iletisim@ahmetmusakosali.com.tr',
+        // 'contact-us', // Or 'vuepress-plugin-contact-us'
+        // {
+
+        //     email: 'iletisim@ahmetmusakosali.com.tr',
            
-        },
+        // },
         '@vuepress/google-analytics',
         {
           'ga': 'UA-153662218-2' // UA-00000000-0
-        }
+        },
+        'sitemap',
+        {
+          hostname: 'http://forextekazanmaninyolu.info.tr/'
+        },
     ]
 ]
 }
