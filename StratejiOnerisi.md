@@ -1,12 +1,16 @@
-# PROFX için ÖNERDİĞİM STRATEJİ
+# ProFX ile Başarı Stratejisi
 
 ![plan](./img/master_plan.svg)
 
 [[toc]]
 
- ProFX ile kazanmak çok kolay.  Aşağıda kendi uyguladığım stratejimi yazıyorum. Bu yöntem ile 3 yıllık zararımı çıkartıp artıya geçtim.  Bu işin sırrı her bir işlemde az getiriye razı olmaktan geciyor. 
+ Forex'te işlem yapacağınız yatırım enstrümanına karar verdikten sonra 2 noktayı belirlemeniz gerekir. Bunlardan biri “**Trend Yönü**” diğeri ise “**Nereden İşleme Girilir**”.
+
+Alman menşeli [**Forex21**](http://ahmetmusakosali.forex21pro3.c2strack.com) firmasına ait [ ***ProFX***](http://ahmetmusakosali.forex21pro3.c2strack.com) ürününün amacı size işleme gireceğiniz yönü ve yeri Meta Trader grafik penceresinde sinyal vererek göstermekte ve bu işi gerçekten de çok iyi şekilde başarmakta.
+
+ProFX ile kazanmak çok kolay.  Aşağıda kendi uyguladığım stratejimi yazıyorum. Bu yöntem ile 3 yıllık zararımı çıkartıp artıya geçtim.  Bu işin sırrı her bir işlemde az getiriye razı olmaktan geciyor. 
  
- Stratejinin başarılı olabilmesi için öncelikle bazı gereksinimlerinsağlanması gerekiyor.
+ Stratejinin başarılı olabilmesi için öncelikle bazı gereksinimlerin sağlanması gerekiyor.
  
 ## Gereksinimler:
 
