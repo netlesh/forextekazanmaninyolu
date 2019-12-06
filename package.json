@@ -8,7 +8,6 @@
     "build": "vuepress build"
   },
   "dependencies": {
-    "vuepress-plugin-contact-us": "^1.0.3",
-    "vuepress-plugin-sitemap": "^2.3.1"
+    "vuepress-plugin-contact-us": "^1.0.3"
   }
 }

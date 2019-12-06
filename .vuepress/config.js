@@ -32,11 +32,7 @@ module.exports = {
         '@vuepress/google-analytics',
         {
           'ga': 'UA-153662218-2' // UA-00000000-0
-        },
-        'sitemap',
-        {
-          hostname: 'http://forextekazanmaninyolu.info.tr/'
-        },
+        }
     ]
 ]
 }
