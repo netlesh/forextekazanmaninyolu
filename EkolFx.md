@@ -46,7 +46,11 @@ Mesai saatinde müşteri temsilciniz üzerinden Mesai saatleri sonrasında hafta
 **6. Günlük Sinyal**
 Yerli ve Yabancı bir FX firmasında olmayan sinyal gönderimi EkolFX'de var. Sabah saat 9:30 - 10:00 arası Whatsapp üzerinden günlük sinyal gönderilmekte. Bunun yanında gün içi olası durumlarda alternatif sinyal gönderimi yapılıyor. Örnek Sinyal mesajına ait görüntü 
 
+<p align="center">
+
 ![EkolFX Günlük Sinyal Örneği](./img/ekolfx-gunluk-sinyal.jpeg)
+
+</p>
  
 **7. Düşük Spread**
 Spread; Bir döviz kurunun alış fiyatı ile satış fiyatı arasındaki farkı ifade eder. Forex piyasasında yatırım yapan yatırımcı, işlem yaptığı döviz kurunu tek bir fiyattan alıp satmaz. İlgili döviz kuru için piyasada bir alış fiyatı, bir de satış fiyatı vardır. Yatırımcının işlem yaparken ödediği alış-satış fiyatı arasındaki fark olan işlem maliyetine spread denir. 
