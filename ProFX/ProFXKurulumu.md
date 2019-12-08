@@ -64,4 +64,12 @@ Tools (Seçenekler) altındaki Events (Olaylar) tabına gelip Enable (Etkinleşt
 **AutoTrade'in Açılması**
 Grafik ekran üzerinden Sell (Satım) - Buy (Alım) butonlarına bastığınızda işlem yapabilmesi için Meta Trader uygulamasının üst tarafında yer alan AutoTrader (Otomatik Alım Satım) butonun yeşil yanması gerekmektedir. Eğer kırmızı ise butona basıp aktif ediniz.
 
-![eMT Otomatik Alım Satım Açılması](https://lh3.googleusercontent.com/hobP17B9Fi1DLnfoL9w1bHKrkTSBaq-A4t6KzxoV_vRebET2brQIYNFvPZnufrwcvvOqPctfUa8 "MT Otomatik Alım Satım Açılması")
+![MT Otomatik Alım Satım Açılması](https://lh3.googleusercontent.com/hobP17B9Fi1DLnfoL9w1bHKrkTSBaq-A4t6KzxoV_vRebET2brQIYNFvPZnufrwcvvOqPctfUa8 "MT Otomatik Alım Satım Açılması")
+
+**Grafik Ekranına ProFX'i Getirme**
+ProFX'in çalışabilmesi için Meta Trader 4 üzerinde gragik ekranının açık ve ProFX'in ekran üzerinde konumlandırılmış olması gerekiyor. Bu işlem için ProFX'in çalışacağı ekranı açın. Sonra sırası ile Meta Trader menüsünde Charts >> Template >> ProFX 6 - Standard 'ı işaretleyin. 
+![ProFX Template Aç](https://photos.app.goo.gl/6wMWdfZe9YC2kjRx6 "ProFX Template Aç")
+
+Ekran üzerinde BUY - SELL butonlarını görüyorsanız artık sinyal alımına başlayabilirsiniz. Eğer butonları görmüyorsanız [***Genel Hatalar***](https://www.forextekazanmaninyolu.info.tr/ProFX/GenelHatalar.html) sayfasına  bakınız. 
+
+ProFX BUY ve SELL butonlarını kullanabilmek için [***Ayarlar***](https://www.forextekazanmaninyolu.info.tr/ProFX/ProFXAyarlar.html) sayfasını inceleyiniz.
