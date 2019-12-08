@@ -12,7 +12,9 @@ next: ./ProFX/ProFXAyarlar
 
 ::: tip KAYIT
 
-[**Şu linkten kayıt olabilirsiniz**](https://www.ekolfx5.com/hesap-ac?ref=1959&utm_source=refout&utm_term=1959)
+<a href='https://www.ekolfx5.com/hesap-ac?ref=1959&utm_source=refout&utm_term=1959'><img src='./img/ekolfx.png' border="0" title='ProFX Satın Al' alt='ProFX Satın Al'/></a>
+
+<!-- [**Şu linkten kayıt olabilirsiniz**](https://www.ekolfx5.com/hesap-ac?ref=1959&utm_source=refout&utm_term=1959)> -->
 
 :::
 

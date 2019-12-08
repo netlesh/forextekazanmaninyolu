@@ -1,7 +1,9 @@
 ---
 prev: ./GenelHatalar
-next: false
+next: ./ProFXKurulumu
 ---
+
+[***Kurulum***](./ProFX/ProFXKurulumu) sayfasında gerekli ayarları yaptıktan sonra grafik ekran üzerinde F7 tuşuna basın 
 
 ## Presets
 

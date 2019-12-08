@@ -1,3 +1,8 @@
+---
+prev: ./ProFX/ProFXKurulumu
+next: ./ProFX/ProFXAyarlar
+---
+
 # ProFX Sıkca Sorulan Sorular
 
 ![SSS](./img/quiz.svg)

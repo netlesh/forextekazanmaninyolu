@@ -21,12 +21,12 @@ Benim buradaki amacım; Bu site üzerinden elde ettiğim deneyim ve tecrübeleri
 
 <p align="center">
 
-![Kazanç Artırma Ekranı örnek](https://lh3.googleusercontent.com/2ipC4kFP-vlkFp7d_g8lkkRVxMontvKv49awcMDZdyI0NlFpRGfc5WbmxPJM0JNcZRCCEJml9xI "Forex'te başarının sırrı ProFX")
+![Kazanç Artırma Ekranı örnek](./img/profx-ilk-hali.png "Forex'te başarının sırrı ProFX")
 
 </p>
 
 
 **ProFX'i Satın Al**
 
-<a href='http://ahmetmusakosali.forex21pro3.c2strack.com'><img src='https://www.click2sell.eu/images/checkout/logo-checkout.png' border="0" title='ProFX Satın Al' alt='ProFX Satın Al'/></a>
+<a href='http://ahmetmusakosali.forex21pro3.c2strack.com'><img src='./img/click2sell.png' border="0" title='ProFX Satın Al' alt='ProFX Satın Al'/></a>
 

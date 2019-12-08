@@ -13,7 +13,7 @@ next: ./ProFXKurulumu
 **MT Data Klasörünün Açılması**
 ProFX'in çalışabilmesi için Meta Trader'in (MT) çalıştığı alana kopyalanması lazım. Bunun için öncelikle Meta Trader 4 Uygulaması üzerinde sol üst köşedeki File / Dosya tabına tıklayın. Açılan menüden "Open Data Folder" tıklayarak MT'nin çalıştığı klasörü açınız.
 
-![Meta Trader Open Data Folder](https://lh3.googleusercontent.com/z2uHb41o2Sol-r2ExFEbzCh1NbqrZQVVXJAshvxAqzCZ1oBNzknvbrXO3bIxIX8t3GHPuPfWhHE "Meta Trader Open Data Folder")
+![Meta Trader Open Data Folder](../img/open-data-folder.png "Meta Trader Open Data Folder")
 
 **2. Dosyaların MT Eklenmesi**
 Setup dosyası içinden çıkan tüm dosyaları açtığınız Meta Trader Data klasörü içindeki aynı klasörün içine kopyalayınız.
@@ -23,7 +23,7 @@ ProFX Meta Trader Grafik ekranı üzerinde çalışan ücretli ve özel indicat�
 
 Lisanslama için gereken bilgileri almak için Meta Trader uygulamasının sol üst taraftaki Yıldızlı Klasöre basın. Sonra açılan menüden Scripts tabı altındaki "Account Utility Tool" u çift tıklayıp açılan ekrandaki bilgileri support@forex21.com adresine mail atınız.
 
-![Forex21 AUT](https://lh3.googleusercontent.com/iKMIH_oVc2YV9SqQlRsCnnoeWtiXjekb1YgPOsIcg5_kODD07vP8UngspUQ-f5TnZ12Z2Qip3Pk "Forex21 AUT")
+![Forex21 AUT](../img/Forex21-AUT.png "Forex21 AUT")
 
 **4. MT DLL Ayarları**
 Meta Trader 4 Uygulaması üzerinde sol üst köşedeki Tools (Araçlar) tabı altındaki Options (Seçenekler) sekmesini tıklayın

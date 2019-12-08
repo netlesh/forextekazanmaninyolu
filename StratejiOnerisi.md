@@ -1,3 +1,8 @@
+---
+prev: ./ProFX/ProFXKurulumu
+next: ./ProFX/ProFXAyarlar
+---
+
 # ProFX ile Başarı Stratejisi
 
 ![plan](./img/master_plan.svg)
