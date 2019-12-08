@@ -14,7 +14,7 @@ footer: © 2019
 
 Forex'te işlem yapacağınız yatırım enstrümanına karar verdikten sonra 2 noktayı belirlemeniz gerekir. Bunlardan biri “**Trend Yönü**” diğeri ise “**Nereden İşleme Girilir**”. 
 
-ProFX'in amacı size işleme gireceğiniz yönü ve yeri Meta Trader grafik penceresinde sinyal vererek göstermekte ve bu işi gerçekten de çok iyi şekilde başarmakta.
+ProFX'in amacı size işleme gireceğiniz yönü ve yeri Meta Trader 4 grafik penceresinde sinyal vererek göstermekte ve bu işi gerçekten de çok iyi şekilde başarmakta.
 
 Benim buradaki amacım; Bu site üzerinden elde ettiğim deneyim ve tecrübelerimin sonuçlarını paylaşarak hep birlikte kazanmak. 
 
