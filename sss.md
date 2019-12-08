@@ -42,9 +42,9 @@ Aşağıdaki linki tıklayın gelen sayfada "Download your personel copy" linkin
 
 Tabiki normal kredi kartınızlada alım yapabilirsiniz.
 
-***Not1:*** Bu işlem için kartınızın yurt dışı alış verişine açık olması gerekmektedir.
+>>***Not1:*** Bu işlem için kartınızın yurt dışı alış verişine açık olması gerekmektedir.
 
-***Not2:*** Satın alım yaparken geçerli ve çalışan mail adresinizi veriniz. Kurulum dosyaları bu mail adresine gelecektir.
+>>***Not2:*** Satın alım yaparken geçerli ve çalışan mail adresinizi veriniz. Kurulum dosyaları bu mail adresine gelecektir.
 
 ### ProFX'i Kaç Hesapta Kullanabilirim?
 

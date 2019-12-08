@@ -55,19 +55,19 @@ EkolFX'in en çok sevdiğim yanı spot yani işlem gördüğü gerçek fiyat üz
 ### 1. Az Kazanca Razı Olma
 Pips; Bir yatırım aracının fiyat olarak hareket edebileceği en küçük birimdir. Örnek EUR/USD paritesi 1,2567 iken bir süre sonra 1,2577 olmuşsa biz buna “EUR/USD 10 pip yükseldi” deriz. 
 
-Her ürün için pips değeri değişeceğinden Ben kar al noktasını belirlerken 0,01'e 1 usd kazanacak yeri bulup ProFX'de TP (Take Profit - Kar Al) olarak giriyorum. Yatay piyasada ProFX ile düşük pips'de yüksek kazanç elde edebilirsiniz. Aşağıda linkten benim kullandığım ProFX ayarlarına ulaşabilirsiniz.
+Her ürün için pips değeri değişeceğinden Ben kar al noktasını belirlerken 0,01'e 1 usd kazanacak yeri bulup ProFX'de TP (Take Profit - Kar Al) olarak giriyorum. Yatay piyasada ProFX ile düşük pips'de yüksek kazanç elde edebilirsiniz. Aşağıda linkten benim kullandığım ProFX ayarlarına ulaşabilirsiniz. Bu klasörü indirim MT Data Folder altındaki MQL4 altındaki Presets klasörü içine atıp [**Ayarlar**](./ProFX/ProFXAyarlar) sayfasında anlattığım gibi ProFX EA içine yükleyerek veya direk notepad ile açıp inceleyebilirsiniz.
 
 ::: tip YARDIM
-[ProFX için MT4 Presents Klasörü](https://drive.google.com/drive/folders/1bfID31XbvavNcOo1jj7HJzBB_QwR9-uV?usp=sharing)
+[ProFX için MT4 Presents Klasörü](/Presets.zip)
 :::
 
 ### 2. SL (Stop Lost - Zarar Kes) Girmemek
 
 Eğer benim gibi sizde swapsız, düşük pips ve mikro lot ile işlem yapıyorsanız zarar kes yapmanızı önermiyorum. Çünkü ProFX bir ürün için bir sinyal verdi ise o ürün eninde sonunda o fiyata gelecektir.  
 
-***ilk etapta zarar olsada sonradan artıya geciyor. beklemeyi bileceksin sadece.***
+ilk etapta zarar olsada sonradan artıya geciyor. ***beklemeyi bileceksin sadece.***
 
-Fakat bunun için teminat seviyenizi devamlı kontrol edip gerektiğinde teminatı yükseltmek için para yatırmak gerekebilir.
+>>Fakat bunun için teminat seviyenizi devamlı kontrol edip gerektiğinde teminatı yükseltmek için para yatırmak gerekebilir. Bu duruma düşmemek içinde ilk madde olan **Aza Kanaat Etmek** gerekiyor.
 
 ### 3. Günlük Kazanç Limiti Belirleme
 
