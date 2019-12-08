@@ -12,7 +12,7 @@ next: ./ProFX/ProFXAyarlar
 
 ::: tip KAYIT
 
-<a href='https://www.ekolfx5.com/hesap-ac?ref=1959&utm_source=refout&utm_term=1959'><img src='./img/ekolfx.png' border="0" title='ProFX Satın Al' alt='ProFX Satın Al'/></a>
+<a href='https://www.ekolfx5.com/hesap-ac?ref=1959&utm_source=refout&utm_term=1959'><img src='./img/ekolfx.png' border="0" title='EkolFX Hesap Aç' alt='EkolFX Hesap Aç'/></a>
 
 <!-- [**Şu linkten kayıt olabilirsiniz**](https://www.ekolfx5.com/hesap-ac?ref=1959&utm_source=refout&utm_term=1959)> -->
 
@@ -56,8 +56,12 @@ Ben en çok Ne zaman hangi kurdan para gönderip para çektiğimi görmek için 
 SMS ile Şifre değişikliği, para cekme - yatırma, günlük sinyal gibi bir çok bilgilendrimeyi almaktasınız.
 
 
+[[toc]]
+
 ::: tip KAYIT
 
-[EkolFX Hesap Aç](https://www.ekolfx5.com/hesap-ac?ref=1959&utm_source=refout&utm_term=1959)
+<a href='https://www.ekolfx5.com/hesap-ac?ref=1959&utm_source=refout&utm_term=1959'><img src='./img/ekolfx.png' border="0" title='EkolFX Hesap Aç' alt='EkolFX Hesap Aç'/></a>
+
+<!-- [**Şu linkten kayıt olabilirsiniz**](https://www.ekolfx5.com/hesap-ac?ref=1959&utm_source=refout&utm_term=1959)> -->
 
 :::
