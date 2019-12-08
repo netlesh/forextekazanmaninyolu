@@ -30,6 +30,6 @@ module.exports = {
           'ga': 'UA-153662218-2' // UA-00000000-0
         }
     ],
-    '@vuepress/back-to-top'
+    
 ]
 }
