@@ -11,7 +11,7 @@ next: ./ProFX/ProFXAyarlar
 
 ## İslami olarak Forex Caiz mi?
 
-Hayır Caiz Değil. Burada elde edilecek para **Haram**dır. 
+Hayır Caiz Değil. Burada elde edilecek para ***Haram***dır. 
 Ben buradan harama teşvik etmiyorum. Buradan sadece Forex ile işlem yapanların kazancını nasıl arttırabileceklerini anlatıyorum.
 
 ## Bu bir robot mu?
@@ -20,15 +20,23 @@ Hayır. ProFX; otomatik alım satım yapan robot veya EA denilen Expert Advisor 
 
 ## Hangi Platformu Destekliyor?
 
-Şuanda sadece Meta Trader 4 (MT4) desteği bulunmakta
+Şuanda sadece Meta Trader 4 (MT4) üzerinde çalışmaktadır.
 
 ## Nasıl Çalışıyor?
 
-ProFX aslında **lisanslı** bir template. MT4 üzerinde açtığınız grafik penceresine ProFX template'ini ekliyorsunuz. Sonrasında lisans kontrolü yapıyor. Eğer kurulum sonrasında MT4 bilgilerinizi support@forex21.com adresine mail attı iseniz "Örnek Görüntüler" sayfasındaki gibi SHELL - BUY butonlarını görürsünüz.
+ProFX aslında **lisanslı** bir template. MT4 üzerinde açtığınız grafik penceresine ProFX template'ini ekliyorsunuz. Sonrasında lisans kontrolü yapıyor. Eğer satın alıp kurulum sonrasında MT4 bilgilerinizi support@forex21.com adresine mail attı iseniz aşağıdaki gibi SHELL - BUY butonlarını görürsünüz.
+
+<p align="center">
+
+![Kazanç Artırma Ekranı örnek](./img/profx-ilk-hali.png "Forex'te başarının sırrı ProFX")
+
+</p>
 
 ## ProFX Nasıl Satın Alınır?
 
 Aşağıdaki linki tıklayın gelen sayfada "Download your personel copy" linkini tıklayarak satın alım sayfasından sanal kredi kartınız ile  alım yapabilirisiniz. Sanal kartınız yoksa internet bankacılığından ücretsiz oluşturup limit ataması yaparak işleme devam edebilirsiniz. 
+
+<a href='http://ahmetmusakosali.forex21pro3.c2strack.com'><img src='./img/click2sell.png' border="0" title='ProFX Satın Al' alt='ProFX Satın Al'/></a>
 
 Tabiki normal kredi kartınızlada alım yapabilirsiniz.
 

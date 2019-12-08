@@ -62,6 +62,6 @@ SMS ile Şifre değişikliği, para cekme - yatırma, günlük sinyal gibi bir �
 
 <a href='https://www.ekolfx5.com/hesap-ac?ref=1959&utm_source=refout&utm_term=1959'><img src='./img/ekolfx.png' border="0" title='EkolFX Hesap Aç' alt='EkolFX Hesap Aç'/></a>
 
-<!-- [**Şu linkten kayıt olabilirsiniz**](https://www.ekolfx5.com/hesap-ac?ref=1959&utm_source=refout&utm_term=1959)> -->
+<!-- [**Şu linkten kayıt olabilirsiniz**](https://www.ekolfx5.com/hesap-ac?ref=1959&utm_source=refout&utm_term=1959) -->
 
 :::
