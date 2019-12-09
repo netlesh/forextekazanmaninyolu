@@ -29,8 +29,16 @@ Grafik ekran üzerinde oluşan sinyallerin Windows bildirim mesajı olarak gör�
 ProFX'in yeni sürüm güncellemesi sonrasında her bir grafik için ayrı ayrı işlem yapmamak için Safety tabı altındaki Allow kutucuklarını işaretleyiniz.
 
 ## ProFX EA inputs Ayarları
-Açılan ekranda inputs tabına giriniz. Burası ProFX'in asıl ayarlar bölümü. Daha önceden ilgili grafik için elinizde set uzantılı dosya varsa ***Load*** butonuna basarak yükleyebilirsiniz. Eğer yaptığınız ayarları dosya olarak kaydetmek istiyorsanız ***Save*** butonuna basınız.
+Açılan ekranda inputs tabına giriniz. Burası ProFX'in asıl ayarlar bölümü. 
+
+### Daha önce oluşturulmuş ayarların yüklenmesi
+Daha önceden ilgili grafik için elinizde set uzantılı dosya varsa ***Load*** butonuna basarak yükleyebilirsiniz. Eğer yaptığınız ayarları dosya olarak kaydetmek istiyorsanız ***Save*** butonuna basınız.
 
 ![ProFX Ayar Penceresi](../img/ProFX-Ayar-Ekrani.png)
 
+Aşağıda linkini verdiğim alandan benim kullandığım ayarları kendi bilgisayarınıza indirebilirsiniz. 
+
+[Presents](/Presents)
+
+### En Çok Kullanılan Ayarlar
 Şimdi burada en çok kullanılanları size anlatacağım.
