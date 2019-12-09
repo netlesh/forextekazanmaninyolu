@@ -23,7 +23,9 @@ Eğer Browser üzerinden erişebiliyorsanız Meta Trader üzerindeki Tools (Ara�
 
 ProFX'in açılırken Lisans doğrulaması yapabilmesi için Web Request yazan kısıma aşağıdaki adresleri ekleyin.
 https://forex21.com
+
 https://www.forex21.com
+
 https://secure.forex21.com
 
 ### Forex21'e Meta bilgilerini ilettiniz mi?
