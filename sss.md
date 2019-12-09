@@ -48,7 +48,7 @@ Tabiki normal kredi kartınızlada alım yapabilirsiniz.
 
 ### ProFX'i Kaç Hesapta Kullanabilirim?
 
-ProFX'in lisansı Meta hesabınıza göre verilmektedir. ProFX'i çalıştıracağınız tüm Meta hesaplarınız için lisanslama adımlarını yapmanız gerekmektedir. Benim bildiğim En fazla 3 hesap için lisanslama yapılmaktadır. support@forex21.com mail adresi ile iletişime gecerek işlem yapabilirsiniz. 
+ProFX'in lisansı Meta hesabınıza göre verilmektedir. ProFX'i çalıştıracağınız tüm Meta hesaplarınız için lisanslama adımlarını yapmanız gerekmektedir. Benim bildiğim En fazla 5 Meta hesap için lisanslama yapılmaktadır. Konuyla ilgili support@forex21.com mail adresi ile iletişime gecerek işlem yapabilirsiniz. 
 
 ### Hangi Seviyeden İşleme Başlanmalı
 

@@ -2,6 +2,9 @@
 prev: ./GenelHatalar
 next: ./ProFXKurulumu
 ---
+
+[[toc]]
+
 # BUY ve SELL Butonlarının Ayarlanması
 
 [***Kurulum***](./ProFX/ProFXKurulumu) sayfasında gerekli ayarları yaptıktan ve Forex21'den lisans tanımları yapıldı ise artık sinyal üretmeye başlayacaktır. 
@@ -42,3 +45,26 @@ Aşağıda linkini verdiğim alandan benim kullandığım ayarları kendi bilgis
 
 ### En Çok Kullanılan Ayarlar
 Şimdi burada en çok kullanılanları size anlatacağım.
+
+#### Singnal Generations 
+Forex21'in ProFX'de sinyal üretmek için tasarlayıp düzenlediği indikatörlerini göstermekte. Önerim bunun tamamının YES olması.
+
+#### Alerts
+ProFX'in ürettiği sinyalin grafik ekran haricinde sizlere iletilmesini ayarladığınız alandır. Önerim bunun tamamının YES olması.
+
+#### One Click Trading 
+Bu kısım grafik ekran üzerindeki ***BUY - SELL butonlarının yapılandırıldığı*** alandır. Hızlı işleme girmek için önemli bir yer olması fakat yanlış ayarlama sonucu büyük zararlarda verebilir. Bu yüzden önem gösterilmeli
+
+**Max Sell/Buy Order**; ProFX butonları kullanılarak en fazla kaç açık işlem barınacağını belirtiyor.
+
+**SL Type**; Stop Lost (Zarar Kes) tanımının yapıldığı yerdir. Bu bölüm altında 3 seçenek bulunmaktadır. Bunlar: 
+
+***No SL*** Stop Lost olması
+
+***Fixed pips*** Bunu seçerseniz ***SL Fized pips*** alanına yazdığınız değer kadar ters işleme kaldığında işlemi sonlandıracak.
+
+***Swing High/Low*** Grafiğin açık olduğu ürün için optimal olarak hesaplanan düşük veya yüksek değerler. Bunu hiç kullanmadım. o yüzden tam bilgi veremeyeceğim. Belki riske atacak sermayem çok olursa denerim :) 
+
+***Risk Type*** işleme girilecek değerin tipimi ayarladığınız yerdir. Burada 2 seçenek sunuyor. Eğer ***fixed***'i (Sabit) seçerseniz ***Risk Fixed*** alanına işleme girmek istediğiniz sabit lot değeri seçiniz. Eğer ***percent***'i seçerseniz ***Risk percent*** alanına işleme girmek istediğiniz lot'un yüzdelik değerini giriniz.
+
+

@@ -97,6 +97,8 @@ Ekran üzerinde BUY - SELL butonlarını görüyorsanız artık sinyal alımına
 
 </p>
 
+Grafik ekran üzerinde **Yukarı** ok yönü ***Alış (BUY)*** İşlemini **Aşağıda** ok yönü ise ***Satış (SELL)*** işlemini ifade etmekte
+
 Eğer butonları görmüyorsanız [***Genel Hatalar***](https://www.forextekazanmaninyolu.info.tr/ProFX/GenelHatalar.html) sayfasına  bakınız. 
 
 
