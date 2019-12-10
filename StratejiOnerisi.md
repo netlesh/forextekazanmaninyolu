@@ -80,7 +80,7 @@ Benim önerim; Günlük Kazanç Tutarınız, serbest bakiyenin %1'i kadar olsun.
 Burada dikkat edilecek nokta teminat oranınızı %300'ün altına indirmemek. Yoksa bir anda hesabınızı sıfırlayabilirsiniz. Derler ki " Kar cepte güzeldir. Karı gördün mü al kaç" 
 
 ### 4. Time Periots
-Ben 15 dakikalık peryotta grafiklere bakmaktayım. 5 dakika hareketliliği görüp kazancı alıp kaçmak için ideal fakat bazen çok sinyal gerip kafa karışıklığına neden olabiliyor. Bu nedenle önerim 15 dk'lık periot. 
+Ben 5 dakikalık peryotta grafiklere bakmaktayım. 5 dakika hareketliliği görüp kazancı alıp kaçmak için ideal fakat bazen çok sinyal gerip kafa karışıklığına neden olabiliyor. Bu durumda  15 dk'lık periota cıakrtabilirsiniz
 
 Siz 5 ile başlayıp ProFX çok sinyal verip sizi yanıltıyorsa süreyi yükseltebilirsiniz. 
 
