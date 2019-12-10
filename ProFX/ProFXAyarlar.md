@@ -23,7 +23,7 @@ Bu sayfada grafik ekran üzerindeki SELL ve BUY butonlarının kullanımı için
 
 Açılacak olan ekranda önce Common tabina gelip anlatıma başlayalım
 
-![ProFX Common Ayarları](../img/Profx-Common-Ayarları.png)
+![ProFX Common Ayarları](../img/Profx-Common-Ayarlari.png)
 
 Common tabı altında hangi yönde işleme gireceğinizi belirtiyorsunuz. Long demek Alış (BUY), Short ise Satış (SELL)'i ifade etmektedir. Çift taraflı yani hem Alış yönünde hem de satış yönünde işlemlere girmek için long&short'u seciniz. 
 
