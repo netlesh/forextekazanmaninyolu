@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'FOREX\'te KAZANCINIZI ARTTIRIN',
-  description: 'ARTIK FOREX\'TE KAYBETMEK YOK',
+  title: 'Forex\'te Kazancınızı Arttırın',
+  description: 'Artık Forex\'te Kaybetmek YOK',
   themeConfig: {
     smoothScroll: true,
     nav: [

@@ -55,7 +55,9 @@ EkolFX'in en çok sevdiğim yanı spot yani işlem gördüğü gerçek fiyat üz
 ### 1. Az Kazanca Razı Olma
 Pips; Bir yatırım aracının fiyat olarak hareket edebileceği en küçük birimdir. Örnek EUR/USD paritesi 1,2567 iken bir süre sonra 1,2577 olmuşsa biz buna “EUR/USD 10 pip yükseldi” deriz. 
 
-Her ürün için pips değeri değişeceğinden Ben kar al noktasını belirlerken 0,01'e 1 usd kazanacak yeri bulup ProFX'de TP (Take Profit - Kar Al) olarak giriyorum. Yatay piyasada ProFX ile düşük pips'de yüksek kazanç elde edebilirsiniz. Aşağıda linkten benim kullandığım ProFX ayarlarına ulaşabilirsiniz. Bu klasörü indirim MT Data Folder altındaki MQL4 altındaki Presets klasörü içine atıp [**Ayarlar**](./ProFX/ProFXAyarlar) sayfasında anlattığım gibi ProFX EA içine yükleyerek veya direk notepad ile açıp inceleyebilirsiniz.
+Her ürün için pips değeri değişeceğinden Ben kar al noktasını belirlerken 0,01'e 1 usd kazanacak yeri bulup ProFX'de TP (Take Profit - Kar Al) olarak giriyorum. Yatay piyasada ProFX ile düşük pips'de yüksek kazanç elde edebilirsiniz. 
+
+Aşağıda linkten benim kullandığım ve devamlı güncellediğim ProFX ayarlarına ulaşabilirsiniz. Bu klasörü indirip MT Data Folder altındaki MQL4 altındaki Presets klasörü içine atıp [**Ayarlar**](./ProFX/ProFXAyarlar) sayfasında anlattığım gibi ProFX EA içine yükleyerek veya direk notepad ile açıp inceleyebilirsiniz.
 
 ::: tip YARDIM
 [ProFX için MT4 Presents Klasörü](/Presets.zip)
@@ -78,7 +80,9 @@ Benim önerim; Günlük Kazanç Tutarınız, serbest bakiyenin %1'i kadar olsun.
 Burada dikkat edilecek nokta teminat oranınızı %300'ün altına indirmemek. Yoksa bir anda hesabınızı sıfırlayabilirsiniz. Derler ki " Kar cepte güzeldir. Karı gördün mü al kaç" 
 
 ### 4. Time Periots
-Ben 5 dakikalık peryotta grafiklere bakmaktayım. 5 dakika hareketliliği görüp kazancı alıp kaçmak için ideal. Eğer ProFX çok sinyal verip sizi yanıltıyorsa süreyi yükseltebilirsiniz. 
+Ben 15 dakikalık peryotta grafiklere bakmaktayım. 5 dakika hareketliliği görüp kazancı alıp kaçmak için ideal fakat bazen çok sinyal gerip kafa karışıklığına neden olabiliyor. Bu nedenle önerim 15 dk'lık periot. 
+
+Siz 5 ile başlayıp ProFX çok sinyal verip sizi yanıltıyorsa süreyi yükseltebilirsiniz. 
 
 ## İşlem Yaptığım Ürünler
 Sonunda :chart: olanlar başlangıç için tercih edilebilir.

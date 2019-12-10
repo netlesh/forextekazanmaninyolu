@@ -50,6 +50,13 @@ Tabiki normal kredi kartınızlada alım yapabilirsiniz.
 
 ProFX'in lisansı Meta hesabınıza göre verilmektedir. ProFX'i çalıştıracağınız tüm Meta hesaplarınız için lisanslama adımlarını yapmanız gerekmektedir. Benim bildiğim En fazla 5 Meta hesap için lisanslama yapılmaktadır. Konuyla ilgili support@forex21.com mail adresi ile iletişime gecerek işlem yapabilirsiniz. 
 
+### Forex21 ProFX Template'i nasıl test ederim?
+Bildiğim kadarıyla ürünü satın almadan kullanımını Forex21 izin vermiyor. support@forex21.com mail adresi üzerinden iletişime gecebilirsiniz.
+
+Kendime ait içinde 150 USD gerçek hesap üzerinden 15 gün test imkanı sunabilirim. Bunun için siteki iletişim panalinden talep yapabilirsiniz.
+
+>> * Yoğunluktan dolayı Gelen talepler sıraya konulmaktadır. Talebinize göre teste başlayacağınız zaman size bilgi verilecektir.
+
 ### Hangi Seviyeden İşleme Başlanmalı
 
 Önce her bir işlem için 0,01'lik lot miktarı ve 1 usd'lik kar ile başlayın. 1 ayın sonunda açtığınız işlem sayısına ve teminatınıza göre lot miktarını arttırın. Fakat pips değerini yükseltmeyin eğer yükseltecekseniz bile çok yükseltmeyin.

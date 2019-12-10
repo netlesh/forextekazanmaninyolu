@@ -37,8 +37,6 @@ Açılan ekranda inputs tabına giriniz. Burası ProFX'in asıl ayarlar bölüm�
 ### Daha önce oluşturulmuş ayarların yüklenmesi
 Daha önceden ilgili grafik için elinizde set uzantılı dosya varsa ***Load*** butonuna basarak yükleyebilirsiniz. Eğer yaptığınız ayarları dosya olarak kaydetmek istiyorsanız ***Save*** butonuna basınız.
 
-![ProFX Ayar Penceresi](../img/ProFX-Ayar-Ekrani.png)
-
 Aşağıda linkini verdiğim alandan benim kullandığım ayarları kendi bilgisayarınıza indirebilirsiniz. 
 
 [Presents](/Presents)
@@ -51,6 +49,8 @@ Forex21'in ProFX'de sinyal üretmek için tasarlayıp düzenlediği indikatörle
 
 #### Alerts
 ProFX'in ürettiği sinyalin grafik ekran haricinde sizlere iletilmesini ayarladığınız alandır. Önerim bunun tamamının YES olması.
+
+![ProFX Ayar Penceresi](../img/ProFX-Ayar-Ekrani.png)
 
 #### One Click Trading 
 Bu kısım grafik ekran üzerindeki ***BUY - SELL butonlarının yapılandırıldığı*** alandır. Hızlı işleme girmek için önemli bir yer olması fakat yanlış ayarlama sonucu büyük zararlarda verebilir. Bu yüzden önem gösterilmeli
@@ -67,4 +67,5 @@ Bu kısım grafik ekran üzerindeki ***BUY - SELL butonlarının yapılandırıl
 
 ***Risk Type*** işleme girilecek değerin tipimi ayarladığınız yerdir. Burada 2 seçenek sunuyor. Eğer ***fixed***'i (Sabit) seçerseniz ***Risk Fixed*** alanına işleme girmek istediğiniz sabit lot değeri seçiniz. Eğer ***percent***'i seçerseniz ***Risk percent*** alanına işleme girmek istediğiniz lot'un yüzdelik değerini giriniz.
 
+***Take Profit pips*** Her bir ürün için pips ve pips başına getiri değişkenlik göstermekte. Bu nedenle işleme girdikten sonra ne kadarlık kazançla kapanacağını belirlemeniz gerekiyor. 
 
