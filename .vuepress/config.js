@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'FOREX\'te KAZANCINIZI ARTTIRIN',
-  description: 'ARTIK FOREX\'TE KAYBETMEK YOK',
+  title: 'Forex\'te Kazancınızı Arttırın',
+  description: 'Artık Forex\'te Kaybetmek YOK',
   themeConfig: {
     smoothScroll: true,
     nav: [
@@ -8,10 +8,10 @@ module.exports = {
       { text: 'ProFX',
         items: [
           { text: 'Kurulumu', link: '/ProFX/ProFXKurulumu' },
-          { text: 'Strateji Önerisi', link: '/StratejiOnerisi' },
+          { text: 'Ayarları', link: '/ProFX/ProFXAyarlar' },
           { text: 'Genel Hatalar', link: '/ProFX/GenelHatalar' },
-          { text: 'Başarı Tablosu', link: 'https://datastudio.google.com/embed/reporting/310123f3-ad6f-4f79-b433-0a83d566d052/page/yIW8' },
-          { text: 'Ayarları', link: '/ProFX/ProFXAyarlar' }
+          { text: 'Strateji Önerisi', link: '/StratejiOnerisi' },
+          { text: 'Başarı Tablosu', link: 'https://datastudio.google.com/embed/reporting/310123f3-ad6f-4f79-b433-0a83d566d052/page/yIW8' }
         ]
       },
       { text: 'SSS ', link: '/sss' },
@@ -30,6 +30,6 @@ module.exports = {
           'ga': 'UA-153662218-2' // UA-00000000-0
         }
     ],
-    '@vuepress/back-to-top'
+     '@vuepress/back-to-top'
 ]
 }

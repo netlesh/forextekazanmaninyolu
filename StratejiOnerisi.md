@@ -1,3 +1,8 @@
+---
+prev: ./ProFX/ProFXKurulumu
+next: ./ProFX/ProFXAyarlar
+---
+
 # ProFX ile Başarı Stratejisi
 
 ![plan](./img/master_plan.svg)
@@ -17,8 +22,9 @@ ProFX ile kazanmak çok kolay.  Aşağıda kendi uyguladığım stratejimi yazı
  ### 1. Swapsız Hesap:
  SWAP açtığınız işlem için aldığınız veya ödediğiniz günlük faiz bedelidir. Her ne kadar ProFX anlık sinyal verse de o işleminin kapanması zaman alabiliyor. Bazen sinyal verdikten kısa süre sonra işlemde ters sinyal verebilir.  ProFX anlık  sinyal verse bile bazen işlem o gün kapanmıyor. Bu nedenden ötürü swap devreye girip kazancınızı götürmesin diye işlem yapacağınız hesabın swapsız olması gerekmektedir.
  
-Ben EKOLFX'i kullanıyorum. Sitede detaylı avantajlarından bahsettim. Aşağıdaki link ile hesap açabilirsiniz.
-[Hesap Aç](https://www.ekolfx5.com/hesap-ac?ref=1959&utm_source=refout&utm_term=1959)
+Ben EKOLFX'i kullanıyorum. Sitede detaylı avantajlarından bahsettim. Aşağıdaki link ile hesap açabilirsiniz. Fakat hesap açarken swapsız olarak talep etmelisiniz.
+
+<a href='https://www.ekolfx5.com/hesap-ac?ref=1959&utm_source=refout&utm_term=1959'><img src='./img/ekolfx.png' border="0" title='EkolFX Hesap Aç' alt='EkolFX Hesap Aç'/></a>
 
 ### 2. Düşük Spread
 Spread; Bir döviz kurunun alış fiyatı ile satış fiyatı arasındaki farkı ifade eder. Bazen piyasa çok hareketli oluyor. ProFX sinyal verdikten bir süre sonra ters işlemde sinyal üretebiliyor. Eğer düşük al - sat oranlı çalışıyorsanız hareketli zamanalarda bile işleme girdiğinizden kısa süre içinde hızlıca kar alıp cıkarsınız.
@@ -32,32 +38,51 @@ Bakiyeniz ve teminat seviyeniz ne kadar yüksek olursa olsun ProFX üzerinden ge
 Bir çok FX firması DAX, Petrol gibi ürünlerde vadeli kontratlar ile çalışıyor. Buda bir anda çok kazanıp veya kaybetmenize neden oluyor. Buna ek olarak vadeli kontratlarda vade sonunda ya pozisyonu kapatıyor yada ek ücret talep edilmekte. 
 
 EkolFX'in en çok sevdiğim yanı spot yani işlem gördüğü gerçek fiyat üzerinden işlem yapması. Bu sayede gönül rahatlığı ile uzun süreli DAX, Petrol gibi ürünlerde işlem yapmanızı kolaylaştırıyor. EN önemlisi Trend yönünü bldiğin üründe yüksek getiriyi sağlaması.
-[Hesap Aç](https://www.ekolfx5.com/hesap-ac?ref=1959&utm_source=refout&utm_term=1959)
+
+<a href='https://www.ekolfx5.com/hesap-ac?ref=1959&utm_source=refout&utm_term=1959'><img src='./img/ekolfx.png' border="0" title='EkolFX Hesap Aç' alt='EkolFX Hesap Aç'/></a>
+
+### 5. Trend Yönünü için Takip Ettiğim YouTube Kanalları
+[***KlasFX***](https://www.youtube.com/channel/UCFpY24xmanwQvl8M17EM0FQ/videos) ; Her gün Saat 10:30'da, Çarşamba ve Cuma saat 16:30'da canlı yayın. 
+
+[***Kudret Ayyıldır***](https://www.youtube.com/user/kudretayyildir) ; Her Cumartesi günü ilgili haftaya ait Macro Ekonomi gündemini bahsediyor. Pazar günü ise Trend Yönü analizi yapmakta.
+
+[***Elit Turk***](https://www.youtube.com/channel/UCwb-8jLmbPwpIjD55JO-z1w)
+
+[***Kanal Finans***](https://www.youtube.com/user/KanalFinans)
 
 ## Stratejim: 
 
 ### 1. Az Kazanca Razı Olma
 Pips; Bir yatırım aracının fiyat olarak hareket edebileceği en küçük birimdir. Örnek EUR/USD paritesi 1,2567 iken bir süre sonra 1,2577 olmuşsa biz buna “EUR/USD 10 pip yükseldi” deriz. 
 
-Her ürün için pips değeri değişeceğinden Ben kar al noktasını belirlerken 0,01'e 1 usd kazanacak yeri bulup ProFX'de TP (Take Profit - Kar Al) olarak giriyorum. Yatay piyasada ProFX ile düşük pips'de yüksek kazanç elde edebilirsiniz. Aşağıda linkten benim kullandığım ProFX ayarlarına ulaşabilirsiniz.
+Her ürün için pips değeri değişeceğinden Ben kar al noktasını belirlerken 0,01'e 1 usd kazanacak yeri bulup ProFX'de TP (Take Profit - Kar Al) olarak giriyorum. Yatay piyasada ProFX ile düşük pips'de yüksek kazanç elde edebilirsiniz. 
+
+Aşağıda linkten benim kullandığım ve devamlı güncellediğim ProFX ayarlarına ulaşabilirsiniz. Bu klasörü indirip MT Data Folder altındaki MQL4 altındaki Presets klasörü içine atıp [**Ayarlar**](./ProFX/ProFXAyarlar) sayfasında anlattığım gibi ProFX EA içine yükleyerek veya direk notepad ile açıp inceleyebilirsiniz.
+
 ::: tip YARDIM
-[ProFX için MT4 Presents Klasörü](https://drive.google.com/drive/folders/1bfID31XbvavNcOo1jj7HJzBB_QwR9-uV?usp=sharing)
+[ProFX için MT4 Presents Klasörü](/Presets.zip)
 :::
 
 ### 2. SL (Stop Lost - Zarar Kes) Girmemek
 
 Eğer benim gibi sizde swapsız, düşük pips ve mikro lot ile işlem yapıyorsanız zarar kes yapmanızı önermiyorum. Çünkü ProFX bir ürün için bir sinyal verdi ise o ürün eninde sonunda o fiyata gelecektir.  
 
-** ilk etapta zarar olsada sonradan artıya geciyor. beklemeyi bileceksin sadece. 
+ilk etapta zarar olsada sonradan artıya geciyor. ***beklemeyi bileceksin sadece.***
+
+>>Fakat bunun için teminat seviyenizi devamlı kontrol edip gerektiğinde teminatı yükseltmek için para yatırmak gerekebilir. Bu duruma düşmemek içinde ilk madde olan **Aza Kanaat Etmek** gerekiyor.
 
 ### 3. Günlük Kazanç Limiti Belirleme
 
-Kendiniz için günlük kazanç limiti belirtin ve bu limite ulaştığınızda yeni işlem girişi yapmayın. Çünkü bir süre sonra bekleyen çok sayıda işleminiz olabilir. 
+Kendiniz için günlük kazanç limiti belirtin ve bu limite ulaştığınızda yeni işlem girişi yapmayın. Çünkü bir süre sonra bekleyen çok sayıda işleminiz olabilir. Bunun için ProFX üzerinde ek kontrol bulunmakta. [**Ayarlar**](./ProFX/ProFXAyarlar) sayfasına bakınız.
+
+Benim önerim; Günlük Kazanç Tutarınız, serbest bakiyenin %1'i kadar olsun.Özellikle hareketli zamanlarda hırsa kapılıp hesabı sıfırlamayın. 
 
 Burada dikkat edilecek nokta teminat oranınızı %300'ün altına indirmemek. Yoksa bir anda hesabınızı sıfırlayabilirsiniz. Derler ki " Kar cepte güzeldir. Karı gördün mü al kaç" 
 
 ### 4. Time Periots
-Ben 5 dakikalık peryotta grafiklere bakmaktayım. 5 dakika hareketliliği görüp kazancı alıp kaçmak için ideal. Eğer ProFX çok sinyal verip sizi yanıltıyorsa süreyi yükseltebilirsiniz. 
+Ben 15 dakikalık peryotta grafiklere bakmaktayım. 5 dakika hareketliliği görüp kazancı alıp kaçmak için ideal fakat bazen çok sinyal gerip kafa karışıklığına neden olabiliyor. Bu nedenle önerim 15 dk'lık periot. 
+
+Siz 5 ile başlayıp ProFX çok sinyal verip sizi yanıltıyorsa süreyi yükseltebilirsiniz. 
 
 ## İşlem Yaptığım Ürünler
 Sonunda :chart: olanlar başlangıç için tercih edilebilir.
@@ -79,3 +104,4 @@ Sonunda :chart: olanlar başlangıç için tercih edilebilir.
 | XAU/USD       | Ons Altın            | :chart: |
 | XAG/USD       | Gümüş                |         |
 | DAX/EUR       | Alman Dax Endeksi    |         |
+| SPX/USD       | ABD SP Endeksi       |         |
