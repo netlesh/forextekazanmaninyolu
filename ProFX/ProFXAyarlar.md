@@ -69,3 +69,7 @@ Bu kısım grafik ekran üzerindeki ***BUY - SELL butonlarının yapılandırıl
 
 ***Take Profit pips*** Her bir ürün için pips ve pips başına getiri değişkenlik göstermekte. Bu nedenle işleme girdikten sonra ne kadarlık kazançla kapanacağını belirlemeniz gerekiyor. 
 
+***Singnal History*** Grafik ekran üzerinde geriye dönük kaç sinyalin görülmesini istersiniz. Ben 4 olarak kullanıyorum. Fakat siz derin analiz etmek isterseniz arttırabilirsiniz
+
+***Magic Number*** Her bir ürün için farklı numara belirlemenizi tavsiye ederim. Özellikle cep telefonunuza gelen mesajlarda ayrıştırıcı oluyor.
+
