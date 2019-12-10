@@ -72,4 +72,3 @@ Bu kısım grafik ekran üzerindeki ***BUY - SELL butonlarının yapılandırıl
 ***Singnal History*** Grafik ekran üzerinde geriye dönük kaç sinyalin görülmesini istersiniz. Ben 4 olarak kullanıyorum. Fakat siz derin analiz etmek isterseniz arttırabilirsiniz
 
 ***Magic Number*** Her bir ürün için farklı numara belirlemenizi tavsiye ederim. Özellikle cep telefonunuza gelen mesajlarda ayrıştırıcı oluyor.
-
