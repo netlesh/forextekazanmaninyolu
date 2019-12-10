@@ -11,7 +11,7 @@ module.exports = {
           { text: 'Ayarları', link: '/ProFX/ProFXAyarlar' },
           { text: 'Genel Hatalar', link: '/ProFX/GenelHatalar' },
           { text: 'Strateji Önerisi', link: '/StratejiOnerisi' },
-          { text: 'Başarı Tablosu', link: 'https://datastudio.google.com/embed/reporting/310123f3-ad6f-4f79-b433-0a83d566d052/page/yIW8' }
+          { text: 'Başarı Tablosu', link: '/ProFX/ProFXBasarisi' }
         ]
       },
       { text: 'SSS ', link: '/sss' },
