@@ -20,7 +20,7 @@ module.exports = {
     sidebar: [
       ['http://ahmetmusakosali.forex21pro3.c2strack.com', 'ProFX Satın Al'],
       ['https://www.ekolfx5.com/hesap-ac?ref=1959&utm_source=refout&utm_term=1959', 'EkolFX\'de Hesap Aç'],
-      ['http://www.myfxbook.com/members/kazanmaninyolu/kazanmaninyolu/3941362', 'Myfxbook']
+      ['http://www.myfxbook.com/members/kazanmaninyolu/kazanmaninyolu/3941362', 'Başarı Raporu']
     ]
   },
   plugins:[
