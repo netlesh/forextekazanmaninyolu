@@ -5,13 +5,18 @@ next: ./ProFX/ProFXAyarlar
 
 # ProFX ile Başarı Stratejisi
 
-![plan](./img/master_plan.svg)
-
 [[toc]]
 
- Forex'te işlem yapacağınız yatırım enstrümanına karar verdikten sonra 2 noktayı belirlemeniz gerekir. Bunlardan biri “**Trend Yönü**” diğeri ise “**Nereden İşleme Girilir**”.
+Forex'te işlem yapacağınız yatırım enstrümanına karar verdikten sonra 2 noktayı belirlemeniz gerekir. Bunlardan biri “**Trend Yönü**” diğeri ise “**Nereden İşleme Girilir**”.
 
 Alman menşeli [**Forex21**](http://ahmetmusakosali.forex21pro3.c2strack.com) firmasına ait [ ***ProFX***](http://ahmetmusakosali.forex21pro3.c2strack.com) ürününün amacı size işleme gireceğiniz yönü ve yeri Meta Trader grafik penceresinde sinyal vererek göstermekte ve bu işi gerçekten de çok iyi şekilde başarmakta.
+
+ProFX'in başarısını daha iyi görüp anlamanız için benim anlamanız için yaptığım işlemlere ve kazancı Aşağıdaki linkten ulaşıp inceleyebilirsiniz.
+
+http://www.myfxbook.com/members/kazanmaninyolu/kazanmaninyolu/3941362
+
+<a href="https://www.myfxbook.com/statements/3941362/statement.html"><img  border="0" src="https://widgets.myfxbook.com/custom-widget?id=3941362&width=600&height=400&bart=2&symbol=USDJPY&linet=1&bgColor=FFFFFF&gridColor=BDBDBD&lineColor=0024FF&barColor=4A63FB&bar1Color=4a63fb&fontColor=525252&title=kazanmaninyolu&titles=12&chartbgc=FFFFFF&equityColor=EFF45A"/></a>
+
 
 ProFX ile kazanmak çok kolay.  Aşağıda kendi uyguladığım stratejimi yazıyorum. Bu yöntem ile 3 yıllık zararımı çıkartıp artıya geçtim.  Bu işin sırrı her bir işlemde az getiriye razı olmaktan geciyor. 
  
@@ -80,7 +85,7 @@ Benim önerim; Günlük Kazanç Tutarınız, serbest bakiyenin %1'i kadar olsun.
 Burada dikkat edilecek nokta teminat oranınızı %300'ün altına indirmemek. Yoksa bir anda hesabınızı sıfırlayabilirsiniz. Derler ki " Kar cepte güzeldir. Karı gördün mü al kaç" 
 
 ### 4. Time Periots
-Ben 15 dakikalık peryotta grafiklere bakmaktayım. 5 dakika hareketliliği görüp kazancı alıp kaçmak için ideal fakat bazen çok sinyal gerip kafa karışıklığına neden olabiliyor. Bu nedenle önerim 15 dk'lık periot. 
+Ben 5 dakikalık peryotta grafiklere bakmaktayım. 5 dakika hareketliliği görüp kazancı alıp kaçmak için ideal fakat bazen çok sinyal gerip kafa karışıklığına neden olabiliyor. Bu durumda  15 dk'lık periota cıakrtabilirsiniz
 
 Siz 5 ile başlayıp ProFX çok sinyal verip sizi yanıltıyorsa süreyi yükseltebilirsiniz. 
 

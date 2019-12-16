@@ -11,7 +11,7 @@ next: ./ProFXKurulumu
  
  >> Eğer mail gelmeden Kuruluma başlayıp süreci hızlandırmak isterseniz Aşağıdaki linkte 6.3 sürümünü indirip kuruluma başlayabilirsiniz.
  
- >>[ProFX 6.3 Setup Dosyası](/profx_6_3.zip)
+ [ProFX 6.3 Setup Dosyası](/profx_6_3.zip)
 
  ***Not:*** Mail ile Güncel sürüm geldiğinde dosyaları güncel sürüm ile değişimini unutmayınız.
 

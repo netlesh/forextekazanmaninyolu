@@ -23,7 +23,7 @@ Bu sayfada grafik ekran üzerindeki SELL ve BUY butonlarının kullanımı için
 
 Açılacak olan ekranda önce Common tabina gelip anlatıma başlayalım
 
-![ProFX Common Ayarları](../img/Profx-Common-Ayarları.png)
+![ProFX Common Ayarları](../img/Profx-Common-Ayarlari.png)
 
 Common tabı altında hangi yönde işleme gireceğinizi belirtiyorsunuz. Long demek Alış (BUY), Short ise Satış (SELL)'i ifade etmektedir. Çift taraflı yani hem Alış yönünde hem de satış yönünde işlemlere girmek için long&short'u seciniz. 
 
@@ -69,3 +69,6 @@ Bu kısım grafik ekran üzerindeki ***BUY - SELL butonlarının yapılandırıl
 
 ***Take Profit pips*** Her bir ürün için pips ve pips başına getiri değişkenlik göstermekte. Bu nedenle işleme girdikten sonra ne kadarlık kazançla kapanacağını belirlemeniz gerekiyor. 
 
+***Singnal History*** Grafik ekran üzerinde geriye dönük kaç sinyalin görülmesini istersiniz. Ben 4 olarak kullanıyorum. Fakat siz derin analiz etmek isterseniz arttırabilirsiniz
+
+***Magic Number*** Her bir ürün için farklı numara belirlemenizi tavsiye ederim. Özellikle cep telefonunuza gelen mesajlarda ayrıştırıcı oluyor.
