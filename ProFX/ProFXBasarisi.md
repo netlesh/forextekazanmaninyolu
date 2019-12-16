@@ -13,7 +13,7 @@ next: ./ProFXKurulumu
 
 Bu sayfada basit bir şekilde bu işe ne kadar yatırdığımı ve getirisini sunmaktayım. 
 
-http://www.myfxbook.com/members/kazanmaninyolu/kazanmaninyolu/3941362
+[Detaylı Raporu Görüntülemk için tıklayın](http://www.myfxbook.com/members/kazanmaninyolu/kazanmaninyolu/3941362)
 
 <a href="https://www.myfxbook.com/statements/3941362/statement.html"><img  border="0" src="https://widgets.myfxbook.com/custom-widget?id=3941362&width=600&height=400&bart=2&symbol=USDJPY&linet=1&bgColor=FFFFFF&gridColor=BDBDBD&lineColor=0024FF&barColor=4A63FB&bar1Color=4a63fb&fontColor=525252&title=kazanmaninyolu&titles=12&chartbgc=FFFFFF&equityColor=EFF45A"/></a>
 
