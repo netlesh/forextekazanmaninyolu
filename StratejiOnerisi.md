@@ -85,28 +85,33 @@ Benim önerim; Günlük Kazanç Tutarınız, serbest bakiyenin %1'i kadar olsun.
 Burada dikkat edilecek nokta teminat oranınızı %300'ün altına indirmemek. Yoksa bir anda hesabınızı sıfırlayabilirsiniz. Derler ki " Kar cepte güzeldir. Karı gördün mü al kaç" 
 
 ### 4. Time Periots
-Ben 5 dakikalık peryotta grafiklere bakmaktayım. 5 dakika hareketliliği görüp kazancı alıp kaçmak için ideal fakat bazen çok sinyal gerip kafa karışıklığına neden olabiliyor. Bu durumda  15 dk'lık periota cıakrtabilirsiniz
+Ben 15 dakikalık peryotta grafiklere bakmaktayım. 5 dakika hareketliliği görüp kazancı alıp kaçmak için ideal fakat bazen çok sinyal gerip kafa karışıklığına neden olabiliyor. Bu durumda  15 dk'lık periota cıkartabilirsiniz
 
-Siz 5 ile başlayıp ProFX çok sinyal verip sizi yanıltıyorsa süreyi yükseltebilirsiniz. 
+Siz 15 ile başlayıp ProFX çok sinyal verip sizi yanıltıyorsa süreyi yükseltebilirsiniz. 
 
 ## İşlem Yaptığım Ürünler
 Sonunda :chart: olanlar başlangıç için tercih edilebilir.
 
-| KOD           | İSİM                 | Tercih  |
-| ------------- |:--------------------:| -------:|
-| EUR/USD       | Euro - Dolar         | :chart: |
-| GBP/USD       | Sterlin - Dolar      | :chart: |
-| EUR/GBP       | Euro - Sterlin       |         |
-| USD/JPY       | Dolar - Japon Yeni   |         |
-| GBP/JPY       | Sterlin - Japon Yeni |         |
-| USD/CAD       | Dolar - Kanada Doları| :chart: |
-| USD/CHF       | Dolar - İşveç Frangı |         |
-| AUD/USD       | Avusturalya - Dolar  |         |
-| USD/CNH       | Dolar - Cin Yuan     |         |
-| BRN/USD       | Brend Petrol         |         |
-| WTI/USD       | Ham Petrol           | :chart: |
-| BTC/USD       | Bitcoin              |         |
-| XAU/USD       | Ons Altın            | :chart: |
-| XAG/USD       | Gümüş                |         |
-| DAX/EUR       | Alman Dax Endeksi    |         |
-| SPX/USD       | ABD SP Endeksi       |         |
+Tabloda ***pips*** sutunu 0,01 lik lotluk işlemde 1 usd kazanç getiren değeri göstermekte
+
+| KOD      | İSİM                 | Tercih  | pips |
+| -------- |:--------------------:| -------:|-----:|
+| EUR/USD  | Euro - Dolar         | :chart: | 10   |
+| GBP/USD  | Sterlin - Dolar      | :chart: | 10   |
+| EUR/GBP  | Euro - Sterlin       |         | 10   |
+| USD/JPY  | Dolar - Japon Yeni   | :chart: | 10   |
+| GBP/JPY  | Sterlin - Japon Yeni |         | 11   |
+| USD/CAD  | Dolar - Kanada Doları| :chart: | 10   |
+| USD/CHF  | Dolar - İşveç Frangı | :chart: | 10   |
+| CAD/CHF  | Kanada - İşveç Frangı|         | 10   |
+| AUD/USD  | Avusturalya - Dolar  |         | 10   |
+| USD/CNH  | Dolar - Cin Yuan     |         | 75   |
+| BRN/USD  | Brend Petrol         |         | 10   |
+| WTI/USD  | Ham Petrol           | :chart: | 10   |
+| BTC/USD  | Bitcoin              |         | 10000|
+| XPD/USD  | Palatyum             |         | 110  |   
+| XAU/USD  | Ons Altın            | :chart: | 100  |
+| XAG/USD  | Gümüş                |         | 7    |
+| DAX/EUR  | Alman Dax Borsası    |         | 2000 |
+| SPX/USD  | ABD SP Borsası       |         | 2000 |
+| HSJHKD   | Hong Kong Borsası    |         | 2000 |
