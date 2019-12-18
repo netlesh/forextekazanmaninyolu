@@ -14,6 +14,7 @@ module.exports = {
           { text: 'Başarı Tablosu', link: '/ProFX/ProFXBasarisi' }
         ]
       },
+      { text: 'MyFxBook ', link: '/myfxbook' },
       { text: 'SSS ', link: '/sss' },
       { text: 'EkolFX', link: '/EkolFX' },
     ],
@@ -32,5 +33,6 @@ module.exports = {
         }
     ],
      '@vuepress/back-to-top'
+    //  './browserWidget.js'
 ]
 }
