@@ -26,13 +26,11 @@ module.exports = {
   },
   plugins:[
     [
-
         '@vuepress/google-analytics',
         {
-          'ga': 'UA-153662218-2' // UA-00000000-0
+          'ga': 'UA-153662218-2'
         }
     ],
      '@vuepress/back-to-top'
-    //  './browserWidget.js'
 ]
 }
