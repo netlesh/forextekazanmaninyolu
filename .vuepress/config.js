@@ -14,7 +14,11 @@ module.exports = {
           { text: 'Başarı Tablosu', link: '/ProFX/ProFXBasarisi' }
         ]
       },
+<<<<<<< HEAD
       { text: 'MyFxBook ', link: '/myfxbook' },
+=======
+      { text: 'SSS ', link: '/myfxbook' },
+>>>>>>> 917432f55d78feac1a1c442359d251f24aaa9789
       { text: 'SSS ', link: '/sss' },
       { text: 'EkolFX', link: '/EkolFX' },
     ],
