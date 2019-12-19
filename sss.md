@@ -100,9 +100,7 @@ Kendime ait içinde 150 USD gerçek hesap üzerinden 15 gün test imkanı sunabi
 
 Önce her bir işlem için 0,01'lik lot miktarı ve 1 usd'lik kar ile başlayın. 1 ayın sonunda açtığınız işlem sayısına ve teminatınıza göre lot miktarını arttırın. Fakat pips değerini yükseltmeyin eğer yükseltecekseniz bile çok yükseltmeyin.
 
-Serbest Teminatınızın %1'ini Günlük kazanç hedefi olarak belirleyip bu hedefe ulaştığınızda o gün için işleme girmeyin. 
-
-[[toc]]
+Serbest Teminatınızın %1'ini Günlük kazanç hedefi olarak belirleyip bu hedefe ulaştığınızda o gün için işleme girmeyin.
 
 ::: tip DİKKAT
 
