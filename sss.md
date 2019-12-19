@@ -34,7 +34,7 @@ ProFX'i kullanmak için Meta Trader'i çok iyi bilmenize gerek yok. Giriş seviy
 
 [Meta Trader' Giriş](https://youtu.be/2AEUnJgMO64)
 
-### Forex'te Trend Yönünü nasıl bilirliyorsun?
+### Forex'te Trend Yönünü nasıl belirliyorsun?
 Dünya ekonomisi haberlerden çok etkileniyor. Fakat haberlerin dışında genel bir seyir izlemekte. Ben kendime günlük ve haftalık yön cizmekteyim. Araçı kurumum üzerinden gönderilen günlük bültene ek olarak Yön tayininde de aşağıdaki YouTube kanallarından faydalanmaktayım.
 
 [Günlük Veri için: KlasFX](https://www.youtube.com/channel/UCFpY24xmanwQvl8M17EM0FQ) Her gün saat 10:30'da. Ek olarak Çarşamba ve Cuma günleri 16:3'da canlı yayın.
