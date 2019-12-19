@@ -11,12 +11,12 @@ module.exports = {
           { text: 'Ayarları', link: '/ProFX/ProFXAyarlar' },
           { text: 'Genel Hatalar', link: '/ProFX/GenelHatalar' },
           { text: 'Strateji Önerisi', link: '/StratejiOnerisi' },
-          { text: 'Başarı Tablosu', link: '/ProFX/ProFXBasarisi' }
+          { text: 'Başarı Tablosu', link: '/ProFX/ProFXBasarisi' },
         ]
       },
       { text: 'MyFxBook',
         items: [
-          { text: 'Nasıl Kullanılır?', link: '/MyFxBook/nasilkullanilir' },
+          { text: 'Nasıl Kullanılır?', link: '/MyFxBook/nasilKullanilir' },
         ]
       },
       { text: 'SSS ', link: '/sss' },

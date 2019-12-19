@@ -1,6 +1,5 @@
 ---
 prev: ./GenelHatalar
-next: ./ProFXKurulumu
 ---
 
 [[toc]]
