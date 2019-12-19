@@ -16,7 +16,7 @@ module.exports = {
       },
       { text: 'MyFxBook',
         items: [
-          { text: 'MyFxBook', link: '/MyFxBook/MyFxBook' },
+          { text: 'Nasıl Kullanılır?', link: '/MyFxBook/nasilkullanilir' },
         ]
       },
       { text: 'SSS ', link: '/sss' },
