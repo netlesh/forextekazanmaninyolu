@@ -10,17 +10,56 @@ next: ./ProFX/ProFXAyarlar
 [[toc]]
 
 ### İslami olarak Forex Caiz mi?
-
 Hayır Caiz Değil. Burada elde edilecek para ***Haram***dır. 
 Ben buradan harama teşvik etmiyorum. Buradan sadece Forex ile işlem yapanların kazancını nasıl arttırabileceklerini anlatıyorum.
 
-### **Bu bir robot mu?**
+### Forex Nedir?
+Bu konu hakkında GCM Forex Müdür Yardımcısı Kudret Ayyıldır'ın 3 videosunu izlemenizi öneririm.
+
+[Temel Forex Eğitimi 1](https://youtu.be/_fxpSO9-DvI)
+
+[Temel Forex Eğitimi 2](https://youtu.be/--ocGP2Dad0)
+
+[Temel Forex Eğitimi 3](https://youtu.be/k_QSH490GaY)
+
+### Forex'te Kazanmanın sırrı nedir?
+Ben ***"Kar cepte güzeldir"*** stratejisini genel presip edindim. Sadece Forex değil bir çok yatırım ensrümanında bence Küçük miktarda düşük kar tutarına işleme girip karı alıp hemen kaçarak hem bekleme süresini azaltmış oluyorsunuz hem de olası risk durumunuzdan az etkilenmiş olursunuz.
+
+Fakat burada dikkat edilecek nokta sizin ne kadar riski alabildiğiniz önemli. Benim stratejim 0,01 lik lot işlemine 1 usd net kar bırakacak şekilde ayarlamak.
+
+***Örneğin*** Forex Firmalarına göre burada vereceğim değerler değişebilir EkolFX'e göre 1/200 kaldıraçlı bir üründe 0,01'lik lot 10 pips'de 1 USD'ye denk geliyor.
+
+### ProFX kullanımı için Meta Trader 4 bilmeli miyiz?
+ProFX'i kullanmak için Meta Trader'i çok iyi bilmenize gerek yok. Giriş seviyesinde bilgi birikiminizin olması yeterli. Bunun için aşağıdaki videoyu izleyebilirsiniz.
+
+[Meta Trader' Giriş](https://youtu.be/2AEUnJgMO64)
+
+### Forex'te Trend Yönünü nasıl bilirliyorsun?
+Dünya ekonomisi haberlerden çok etkileniyor. Fakat haberlerin dışında genel bir seyir izlemekte. Ben kendime günlük ve haftalık yön cizmekteyim. Araçı kurumum üzerinden gönderilen günlük bültene ek olarak Yön tayininde de aşağıdaki YouTube kanallarından faydalanmaktayım.
+
+[Günlük Veri için: KlasFX](https://www.youtube.com/channel/UCFpY24xmanwQvl8M17EM0FQ) Her gün saat 10:30'da. Ek olarak Çarşamba ve Cuma günleri 16:3'da canlı yayın.
+
+[Tutarlı ve Detaylı Teknik Analiz için ElitTurk](https://www.youtube.com/channel/UCwb-8jLmbPwpIjD55JO-z1w)
+
+[Haftalık Teknik Analiz için Kudret Ayyıldır](https://www.youtube.com/user/kudretayyildir)
+
+### **ProFX bir robot mu?**
 
 Hayır. ProFX; otomatik alım satım yapan robot veya EA denilen Expert Advisor olmadığı için Türkiye dahil robot çalıştırmayı engelleyen tüm Forex Broker (Aracı Kurum) firmalarında çalıştırabilirsiniz. Size sadece işleme gireceğiniz yönü ve yeri Meta Trader 4 grafik penceresinde sinyal vererek göstermekte isterseniz grafik ekran üzerindeki butonlar ile ayarladığınız özelliklerde işlem yapmanızı sağlar.
 
 ### Hangi Platformu Destekliyor?
-
 Şuanda sadece Meta Trader 4 (MT4) üzerinde çalışmaktadır.
+
+### ProFX'i Nasıl Kullanmalıyım?
+2 şekilde kullanabilirsiniz. Benim tercihim birincisi yönünde olacaktır.
+
+**1.** Eğer Forex'e fazla vakit ayırabiliyorsanız ürüne ait yönü belirledikten sonra ProFX tarafından gönderilen sinyalleri işleme girmek veya çıkmak için kullanmanız.
+
+***Örneğin*** EURUSD'nin orta ve uzun vadede düşüş trendinde olduğunu biliyorsanız düşüş sinyallerinde işleme girer çıkış siyanli geldiğinde işlemden çıkarsınız.
+
+***2.*** Eğer yoğun çalışma ortamında iseniz sitemizdeki kurulum adımlarında belirtilen bildirimleri açıp 15'er dakikalık periyotta her sinyal geldiğinde her işlemde 1 USD kazandıracak pips ayarında 0,01 lik  işlem acabilirsiniz. 
+
+Bazen açtığınız işlemin kapanması günler sürebiliyor. Bu yüzden teminat oranınız ***%300 ün altında yeni işleme girmeyin.*** 
 
 ### Nasıl Çalışıyor?
 
