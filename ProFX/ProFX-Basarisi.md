@@ -3,9 +3,9 @@ prev: ../StratejiOnerisi
 next: ./ProFX-Kurulumu
 ---
 
-[[toc]]
-
 # ProFX Başarısı
+
+[[toc]]
 
 2016 yılından beri Forex'te yatırım yapmaktayım. 5 kere hesabım sıfırlandı. 2019 başında bir arkadaşımın vesilesi ile Alman menşeli  [**Forex21**](http://ahmetmusakosali.forex21pro3.c2strack.com)  firmasına ait [ ***ProFX***](http://ahmetmusakosali.forex21pro3.c2strack.com) Meta Trader 4 için yazılmış sinyal template'i ile tanıştım. 2019 Ağustos ayında ProFX ile başladığım işlemler sayesinde yıl sonu gelmeden zararımı cıkartıp artıya geçtim. 
 

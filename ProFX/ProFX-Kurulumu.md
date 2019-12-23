@@ -1,11 +1,12 @@
 ---
 prev: ./GenelHatalar
-next: ./ProFX/ProFX-Ayarlar
+next: ./ProFX-Ayarlar
 ---
+
+# ProFX Nasıl Kurulur
 
 [[toc]]
 
-# PROFX NASIL KURULUR
 
  Kredi Kart ile satın alımda verdiğiniz mail adresine güncel sürüm ve kurulum dökümanları gönderilecektir. 
  

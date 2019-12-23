@@ -3,9 +3,12 @@ prev: ./GenelHatalar
 next: ./ProFX-Kurulumu
 ---
 
+# ProFX Kurulum Sonrası Yapılacaklar
+
 [[toc]]
 
-# BUY ve SELL Butonlarının Ayarlanması
+
+## BUY ve SELL Butonlarının Ayarlanması
 
 [***Kurulum***](./ProFX/ProFXKurulumu) sayfasında gerekli ayarları yaptıktan ve Forex21'den lisans tanımları yapıldı ise artık sinyal üretmeye başlayacaktır. 
 

@@ -1,6 +1,6 @@
 ---
 prev: ./MyFxBook/MyFxBook-nedir
-next: ./MyFxBook/kurulumu
+next: ./MyFxBook/MyFxBook-kurulumu
 ---
 
 # MyFxBook Nedir? Nasıl Kullanılır?

@@ -3,6 +3,8 @@ prev: ./ProFX/ProFX-Kurulumu
 next: ./ProFX/ProFX-Ayarlar
 ---
 
+# EKOLFX Avantajları
+
 ![online ödeme](./img/pay_online.svg)
 
 2019 yılına kadar bir çok yerli ve yabancı yurt dışı forex firmalarını denedim. 
