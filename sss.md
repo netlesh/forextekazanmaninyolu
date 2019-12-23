@@ -1,6 +1,6 @@
 ---
-prev: ./ProFX/ProFXKurulumu
-next: ./ProFX/ProFXAyarlar
+prev: ./ProFX/ProFX-Kurulumu
+next: ./ProFX/ProFX-Ayarlar
 ---
 
 # ProFX Sıkca Sorulan Sorular
@@ -10,7 +10,7 @@ next: ./ProFX/ProFXAyarlar
 [[toc]]
 
 ### İslami olarak Forex Caiz mi?
-Hayır Caiz Değil. Burada elde edilecek para ***Haram***dır. 
+Hayır Caiz Değil. Burada elde edilecek para **Haram**dır. 
 Ben buradan harama teşvik etmiyorum. Buradan sadece Forex ile işlem yapanların kazancını nasıl arttırabileceklerini anlatıyorum.
 
 ### Forex Nedir?

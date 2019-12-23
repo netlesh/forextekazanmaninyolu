@@ -1,6 +1,6 @@
 ---
 prev: ../StratejiOnerisi
-next: ./ProFXKurulumu
+next: ./ProFX-Kurulumu
 ---
 
 [[toc]]

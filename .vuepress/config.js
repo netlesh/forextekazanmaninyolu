@@ -7,16 +7,18 @@ module.exports = {
       { text: 'Ana Sayfa', link: '/' },
       { text: 'ProFX',
         items: [
-          { text: 'Kurulumu', link: '/ProFX/ProFXKurulumu' },
-          { text: 'Ayarları', link: '/ProFX/ProFXAyarlar' },
+          { text: 'Kurulumu', link: '/ProFX/ProFX-Kurulumu' },
+          { text: 'Ayarları', link: '/ProFX/ProFX-Ayarlar' },
           { text: 'Genel Hatalar', link: '/ProFX/GenelHatalar' },
           { text: 'Strateji Önerisi', link: '/StratejiOnerisi' },
-          { text: 'Başarı Tablosu', link: '/ProFX/ProFXBasarisi' },
+          { text: 'Başarı Tablosu', link: '/ProFX/ProFX-Basarisi' },
         ]
       },
       { text: 'MyFxBook',
         items: [
-          { text: 'Nasıl Kullanılır?', link: '/MyFxBook/nasilKullanilir' },
+          { text: 'Nasıl Kullanılır?', link: '/MyFxBook/MyFxBook-nedir' },
+          { text: 'Kurulumu', link: '/MyFxBook/MyFxBook-kurulumu' },
+          { text: 'FX Durumunu Paylaş', link: '/MyFxBook/MyFxBook-Forex-hesap-raporu-yayinlama' },          
         ]
       },
       { text: 'SSS ', link: '/sss' },

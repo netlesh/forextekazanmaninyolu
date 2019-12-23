@@ -1,6 +1,6 @@
 ---
-prev: ./ProFX/ProFXKurulumu
-next: ./ProFX/ProFXAyarlar
+prev: ./ProFX/ProFX-Kurulumu
+next: ./ProFX/ProFX-Ayarlar
 ---
 
 # ProFX ile Başarı Stratejisi

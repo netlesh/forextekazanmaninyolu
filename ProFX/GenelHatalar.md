@@ -1,6 +1,6 @@
 ---
-prev: ./ProFXKurulumu
-next: ./ProFXAyarlar
+prev: ./ProFX-Kurulumu
+next: ./ProFX-Ayarlar
 ---
 
 # KARŞILAŞABİLECEĞİNİZ PROBLEMLER

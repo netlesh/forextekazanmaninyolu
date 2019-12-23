@@ -1,5 +1,6 @@
 ---
 prev: ./GenelHatalar
+next: ./ProFX/ProFX-Ayarlar
 ---
 
 [[toc]]
